@@ -17,7 +17,7 @@ role:        Dental Surgeon & AI Dataset Researcher
 focus:       Computer Vision in Dentistry · YOLO Models · Clinical Dataset Curation
 education:   Master of Public Health (JNU) · Bachelor of Dental Surgery (BDS)
 building:    platform.ultralytics.com/arti-singh
-contact:     dr.artidentist@gmail.com
+contact:     contact@drartidentist.com
 location:    New Delhi, India
 ```
 
@@ -38,6 +38,6 @@ All datasets and models are hosted on the **[Ultralytics Hub Platform](https://p
 Whether you want to collaborate on dental computer vision research, leverage my clinical datasets, or just discuss medical AI, feel free to reach out!
 
 * 💼 **LinkedIn:** [Dr. Arti on LinkedIn](https://www.linkedin.com/in/dr-arti-dentist/)
-* 📧 **Email:** [dr.artidentist@gmail.com](mailto:dr.artidentist@gmail.com)
+* 📧 **Email:** [contact@drartidentist.com](mailto:contact@drartidentist.com)
 * 🚀 **Ultralytics Platform:** [platform.ultralytics.com/arti-singh](https://platform.ultralytics.com/arti-singh)
 * 🌐 **Portfolio Website:** [drartidentist.com](https://drartidentist.com/)
