@@ -15,7 +15,6 @@ I am a dental surgeon bridging clinical dentistry and AI research. Using my clin
 name:        Dr. Arti
 role:        Dental Surgeon & AI Dataset Researcher
 focus:       Computer Vision in Dentistry · YOLO Models · Clinical Dataset Curation
-building:    platform.ultralytics.com/arti-singh
 contact:     contact@drartidentist.com
 location:    New Delhi, India
 ```
