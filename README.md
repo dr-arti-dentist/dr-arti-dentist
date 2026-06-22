@@ -32,10 +32,10 @@ All datasets and models are hosted on the **[Ultralytics Hub Platform](https://p
 
 ---
 
-## 📬 Let's Connect!
+## Let's Connect!
 Whether you want to collaborate on dental computer vision research, leverage my clinical datasets, or just discuss medical AI, feel free to reach out!
 
-* 💼 **LinkedIn:** [Dr. Arti on LinkedIn](https://www.linkedin.com/in/dr-arti-dentist/)
-* 📧 **Email:** [contact@drartidentist.com](mailto:contact@drartidentist.com)
-* 🚀 **Ultralytics Platform:** [platform.ultralytics.com/arti-singh](https://platform.ultralytics.com/arti-singh)
-* 🌐 **Portfolio Website:** [drartidentist.com](https://drartidentist.com/)
+* **LinkedIn:** [Dr. Arti on LinkedIn](https://www.linkedin.com/in/dr-arti-dentist/)
+* **Email:** [contact@drartidentist.com](mailto:contact@drartidentist.com)
+* **Ultralytics Platform:** [platform.ultralytics.com/arti-singh](https://platform.ultralytics.com/arti-singh)
+* **Portfolio Website:** [drartidentist.com](https://drartidentist.com/)
